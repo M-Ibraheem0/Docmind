@@ -14,6 +14,7 @@ langsmith==0.1.129
 pgvector==0.3.3
 redis==5.1.1
 weasyprint==62.3
+pydyf==0.11.0
 pypdf==3.17.4
 alembic==1.13.3
 bcrypt==4.0.1
